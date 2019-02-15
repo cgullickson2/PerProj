@@ -1,1 +1,11 @@
 New stuff
+
+TAGS: 
+
+-(DS) = data science and big data
+-(AI) = artificial intelligence/machine learning related
+-(SS) = Software Security
+-(SYS) = Systems/OS
+-(NW) = Networks
+-(HW) = Hardware
+
