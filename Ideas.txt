@@ -42,7 +42,9 @@ TAGS:
 	-(DS)
 
 7.) Gym Trainer & Monitoring Project 
-	https://nevonprojects.com/gym-trainer-monitoring-project-sys/
+	-https://nevonprojects.com/gym-trainer-monitoring-project-sys/
+	-(AI)
+	-(DS)
 
 8.) Innovative Polling
 	-(DS)
