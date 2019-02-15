@@ -1,7 +1,6 @@
 PROJECT IDEAS
 
 TAGS: 
-
 -(DS) = data science and big data
 -(AI) = artificial intelligence/machine learning related
 -(SS) = Software Security
