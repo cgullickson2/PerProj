@@ -1,4 +1,4 @@
-New stuff
+PROJECT IDEAS
 
 TAGS: 
 
@@ -14,8 +14,31 @@ TAGS:
 	-(AI)
 	-(SS)
 	-(NW)
+	
 2.) Create an Operating Systems
 	-(SYS)
 	-(SS)
 	-(NW)
+	
+3.) Stock Market Analysis and Prediction
+	-https://nevonprojects.com/stock-market-analyzer/
+	-(DS)
+	-(AI)
+	-(NW)
+	
+4.) Secure File Storage On Cloud Using Hybrid Cryptography
+	-https://nevonprojects.com/secure-file-storage-on-cloud-using-hybrid-cryptography/
+	-(SS)
+	-(NW)
+	
+5.) Cancer Prediction Using Data Mining
+	-https://nevonprojects.com/cancer-prediction-using-data-mining/
+	-(SS)
+	-(AI)
+	-(DS)
+	-(NW)
+
+6.) Some kind of professional sports stat analysis
+	-(AI)
+	-(DS)
 	
