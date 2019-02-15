@@ -41,4 +41,7 @@ TAGS:
 6.) Some kind of professional sports stat analysis
 	-(AI)
 	-(DS)
-	
+
+7.) Gym Trainer & Monitoring Project 
+	https://nevonprojects.com/gym-trainer-monitoring-project-sys/
+
