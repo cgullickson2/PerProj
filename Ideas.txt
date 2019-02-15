@@ -50,3 +50,5 @@ TAGS:
 	-(SS)
 	-(AI)
 
+Backend through google firebase
+	https://firebase.google.com/docs/auth/
