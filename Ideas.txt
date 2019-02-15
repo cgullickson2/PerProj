@@ -9,3 +9,13 @@ TAGS:
 -(NW) = Networks
 -(HW) = Hardware
 
+1.) Mental Health Analysis, diagnosis, treatment, perscription etc.
+	-(DS)
+	-(AI)
+	-(SS)
+	-(NW)
+2.) Create an Operating Systems
+	-(SYS)
+	-(SS)
+	-(NW)
+	
