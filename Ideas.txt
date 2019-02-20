@@ -54,3 +54,15 @@ TAGS:
 
 Backend through google firebase
 	https://firebase.google.com/docs/auth/
+	
+	
+TOP CHOICES:
+	1: Polling if we can figure it out.
+	2: OS
+	3: security projects
+	4: gym trainer
+	5: weather app
+	6: sports analysis
+	
+	
+
