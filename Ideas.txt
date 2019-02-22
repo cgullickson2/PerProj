@@ -52,6 +52,13 @@ TAGS:
 	-(SS)
 	-(AI)
 
+
+	-google trends
+	-google trends api
+	
+
+
+
 Backend through google firebase
 	https://firebase.google.com/docs/auth/
 	
