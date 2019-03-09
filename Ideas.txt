@@ -70,6 +70,3 @@ TOP CHOICES:
 	4: gym trainer
 	5: weather app
 	6: sports analysis
-	
-	
-
